@@ -5,3 +5,9 @@
     background-color:rgb(241, 173, 180);
     font-family:'Verdana','DejaVu Sans','sans-serif';
 }
+
+/*Styling the 2nd element [1st ID]:*/
+#element2 {
+    color:hsl(240, 100%, 50%);
+    font-size: 36px;
+}
