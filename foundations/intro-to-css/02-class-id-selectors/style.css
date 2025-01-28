@@ -12,7 +12,14 @@
     font-size: 36px;
 }
 
-/*Style element 2, the class "odds no.3"*/
+/*Style element 3, the class "odds no.3"*/
 .odds.no3 {
     font-size: 24px;
+}
+
+/*Style the 4th element [2nd ID]:*/
+#element4 {
+    background-color: #6ada6a;
+    font-size: 24px;
+    font-weight: bold;
 }
