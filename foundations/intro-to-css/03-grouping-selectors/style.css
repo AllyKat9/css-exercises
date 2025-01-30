@@ -1,1 +1,8 @@
- 
+ /*Styling the Index HTML*/
+
+ /*Grouping selector to add common style for the 2 elements*/
+ .button1, 
+ .button2 {
+    font-family: 'Helvetica', 'Times New Roman', 'sans-serif';
+    font-size: 28px;
+ }
