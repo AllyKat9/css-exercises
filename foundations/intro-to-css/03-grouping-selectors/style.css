@@ -6,3 +6,9 @@
     font-family: 'Helvetica', 'Times New Roman', 'sans-serif';
     font-size: 28px;
  }
+
+ /*Styling 1st element: The class "button1"*/
+ .button1 {
+    background-color: #000000;
+    color: rgb(255, 255, 255);
+ }
