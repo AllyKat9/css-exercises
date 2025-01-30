@@ -1,7 +1,13 @@
 /* Add CSS Styling */ 
 
-/* Styling for 1st image: The class "avatar proportioned*/
+/* Styling for 1st image: In the class "avatar proportioned*/
 .avatar.proportioned {
-    height:auto;
+    height: auto;
     width: 300px;
+}
+
+/*Styling for 2nd image: In the class "avatar distorted"*/
+.avatar.distorted {
+    height: 400px;
+    width: 200px;
 }
