@@ -12,3 +12,8 @@
     background-color: #000000;
     color: rgb(255, 255, 255);
  }
+
+ /*Styling 2nd element: The class "button2"*/
+ .button2 {
+    background-color: yellow;
+ }
